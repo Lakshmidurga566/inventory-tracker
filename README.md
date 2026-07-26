@@ -1,4 +1,4 @@
-# Inventory Tracker
+# Inventory Tracker                                             Intern id:CITS7678
 
 ## Project Overview
 
